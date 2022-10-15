@@ -1,0 +1,360 @@
+LOCUS       NM_020451               4314 bp    mRNA    linear   PRI 17-APR-2022
+DEFINITION  Homo sapiens selenoprotein N (SELENON), transcript variant 2, mRNA.
+ACCESSION   NM_020451
+VERSION     NM_020451.3
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4314)
+  AUTHORS   Castets P, Lescure A, Guicheney P and Allamand V.
+  TITLE     Selenoprotein N in skeletal muscle: from diseases to function
+  JOURNAL   J Mol Med (Berl) 90 (10), 1095-1107 (2012)
+   PUBMED   22527882
+  REMARK    GeneRIF: The physiological function of SelN in muscle tissue and
+            the pathogenesis leading to SEPN1-related myopathies. [Review]
+            Review article
+REFERENCE   2  (bases 1 to 4314)
+  AUTHORS   Maiti B, Arbogast S, Allamand V, Moyle MW, Anderson CB, Richard P,
+            Guicheney P, Ferreiro A, Flanigan KM and Howard MT.
+  TITLE     A mutation in the SEPN1 selenocysteine redefinition element (SRE)
+            reduces selenocysteine incorporation and leads to SEPN1-related
+            myopathy
+  JOURNAL   Hum Mutat 30 (3), 411-416 (2009)
+   PUBMED   19067361
+  REMARK    GeneRIF: Data highlights the importance of the SRE element during
+            SelN expression and illustrates a novel molecular mechanism by
+            which point mutations may lead to SEPN1-related myopathy.
+REFERENCE   3  (bases 1 to 4314)
+  AUTHORS   Allamand V, Richard P, Lescure A, Ledeuil C, Desjardin D, Petit N,
+            Gartioux C, Ferreiro A, Krol A, Pellegrini N, Urtizberea JA and
+            Guicheney P.
+  TITLE     A single homozygous point mutation in a 3'untranslated region motif
+            of selenoprotein N mRNA causes SEPN1-related myopathy
+  JOURNAL   EMBO Rep 7 (4), 450-454 (2006)
+   PUBMED   16498447
+  REMARK    GeneRIF: identification of this mutation affecting a conserved base
+            in the selenocysteine insertion sequence functional motif thereby
+            reveals the structural basis for a novel pathological mechanism
+            leading to SEPN1-related myopathy
+REFERENCE   4  (bases 1 to 4314)
+  AUTHORS   Howard MT, Aggarwal G, Anderson CB, Khatri S, Flanigan KM and
+            Atkins JF.
+  TITLE     Recoding elements located adjacent to a subset of eukaryal
+            selenocysteine-specifying UGA codons
+  JOURNAL   EMBO J 24 (8), 1596-1607 (2005)
+   PUBMED   15791204
+REFERENCE   5  (bases 1 to 4314)
+  AUTHORS   Petit N, Lescure A, Rederstorff M, Krol A, Moghadaszadeh B, Wewer
+            UM and Guicheney P.
+  TITLE     Selenoprotein N: an endoplasmic reticulum glycoprotein with an
+            early developmental expression pattern
+  JOURNAL   Hum Mol Genet 12 (9), 1045-1053 (2003)
+   PUBMED   12700173
+REFERENCE   6  (bases 1 to 4314)
+  AUTHORS   Moghadaszadeh B, Petit N, Jaillard C, Brockington M, Quijano Roy S,
+            Merlini L, Romero N, Estournet B, Desguerre I, Chaigne D, Muntoni
+            F, Topaloglu H and Guicheney P.
+  TITLE     Mutations in SEPN1 cause congenital muscular dystrophy with spinal
+            rigidity and restrictive respiratory syndrome
+  JOURNAL   Nat Genet 29 (1), 17-18 (2001)
+   PUBMED   11528383
+REFERENCE   7  (bases 1 to 4314)
+  AUTHORS   Lescure A, Gautheret D, Carbon P and Krol A.
+  TITLE     Novel selenoproteins identified in silico and in vivo by using a
+            conserved RNA structural motif
+  JOURNAL   J Biol Chem 274 (53), 38147-38154 (1999)
+   PUBMED   10608886
+REFERENCE   8  (bases 1 to 4314)
+  AUTHORS   Sparks,S.E., Quijano-Roy,S., Harper,A., Rutkowski,A., Gordon,E.,
+            Hoffman,E.P. and Pegoraro,E.
+  TITLE     Congenital Muscular Dystrophy Overview - RETIRED CHAPTER, FOR
+            HISTORICAL REFERENCE ONLY
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Gripp
+            KW, Mirzaa GM and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301468
+REFERENCE   9  (bases 1 to 4314)
+  AUTHORS   Beggs,A.H. and Agrawal,P.B.
+  TITLE     Multiminicore Disease - RETIRED CHAPTER, FOR HISTORICAL REFERENCE
+            ONLY
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Gripp
+            KW, Mirzaa GM and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301467
+REFERENCE   10 (bases 1 to 4314)
+  AUTHORS   DeChene,E.T., Kang,P.B. and Beggs,A.H.
+  TITLE     Congenital Fiber-Type Disproportion - RETIRED CHAPTER, FOR
+            HISTORICAL REFERENCE ONLY
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Gripp
+            KW, Mirzaa GM and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301436
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AJ306399.1, AA613025.1,
+            BQ217758.1 and BC021028.2.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Nov 23, 2018 this sequence version replaced NM_020451.2.
+            
+            Summary: This gene encodes a glycoprotein that is localized in the
+            endoplasmic reticulum. It plays an important role in cell
+            protection against oxidative stress, and in the regulation of
+            redox-related calcium homeostasis. Mutations in this gene are
+            associated with early onset muscle disorders, referred to as
+            SEPN1-related myopathy. SEPN1-related myopathy consists of 4
+            autosomal recessive disorders, originally thought to be separate
+            entities: rigid spine muscular dystrophy (RSMD1), the classical
+            form of multiminicore disease, desmin related myopathy with
+            Mallory-body like inclusions, and congenital fiber-type
+            disproportion (CFTD). This protein is a selenoprotein, containing
+            the rare amino acid selenocysteine (Sec). Sec is encoded by the UGA
+            codon, which normally signals translation termination. The 3' UTRs
+            of selenoprotein mRNAs contain a conserved stem-loop structure,
+            designated the Sec insertion sequence (SECIS) element, that is
+            necessary for the recognition of UGA as a Sec codon, rather than as
+            a stop signal. A second stop-codon redefinition element (SRE)
+            adjacent to the UGA codon has been identified in this gene
+            (PMID:15791204). SRE is a phylogenetically conserved stem-loop
+            structure that stimulates readthrough at the UGA codon, and
+            augments the Sec insertion efficiency by SECIS. Alternatively
+            spliced transcript variants have been found for this gene.
+            [provided by RefSeq, Dec 2016].
+            
+            Transcript Variant: This variant (2) contains an additional
+            in-frame, Alu-derived coding exon in the 5' region compared to
+            variant 1. The encoded isoform (2) is longer than isoform 1,
+            containing two potential selenocysteine (Sec) residues. The first
+            Sec found in the novel exon is not conserved, while the second Sec
+            is highly conserved. Expression of isoform 2 was not detected in
+            vivo or in transfection studies, leaving open the possibility that
+            the UGA codon in the novel exon may be recognized as a stop codon,
+            and not as a Sec codon (PMID:12700173).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AJ306399.1, DRR138518.258546.1
+                                           [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1968540
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match              :: ENST00000361547.7/
+                                               ENSP00000355141.2
+            protein contains selenocysteine :: PMID: 10608886
+            RefSeq Select criteria          :: based on conservation, longest
+                                               protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-462               AJ306399.1         18-479
+            463-575             AA613025.1         100-212
+            576-1077            BQ217758.1         48-549
+            1078-2116           BC021028.2         298-1336
+            2117-4314           AJ306399.1         2134-4331
+FEATURES             Location/Qualifiers
+     source          1..4314
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1"
+                     /map="1p36.11"
+     gene            1..4314
+                     /gene="SELENON"
+                     /gene_synonym="CFTD; MDRS1; RSMD1; RSS; SELN; SEPN1"
+                     /note="selenoprotein N"
+                     /db_xref="GeneID:57190"
+                     /db_xref="HGNC:HGNC:15999"
+                     /db_xref="MIM:606210"
+     exon            1..221
+                     /gene="SELENON"
+                     /gene_synonym="CFTD; MDRS1; RSMD1; RSS; SELN; SEPN1"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             39..1811
+                     /gene="SELENON"
+                     /gene_synonym="CFTD; MDRS1; RSMD1; RSS; SELN; SEPN1"
+                     /note="UGA stop codons recoded as selenocysteine; isoform
+                     2 is encoded by transcript variant 2; selenoprotein N, 1"
+                     /codon_start=1
+                     /transl_except=(pos:417..419,aa:Sec)
+                     /transl_except=(pos:1422..1424,aa:Sec)
+                     /product="selenoprotein N isoform 2"
+                     /protein_id="NP_065184.2"
+                     /db_xref="CCDS:CCDS41282.1"
+                     /db_xref="GeneID:57190"
+                     /db_xref="HGNC:HGNC:15999"
+                     /db_xref="MIM:606210"
+                     /translation="MGRARPGQRGPPSPGPAAQPPAPPRRRARSLALLGALLAAAAAA
+                     AVRVCARHAEAQAAARQELALKTLGTDGLFLFSSLDTDGDMYISPEEFKPIAEKLTGS
+                     CSVTQTGVQWCSHSSLQPQLPWLNUSSCLSLLRSTPAASCEEEELPPDPSEETLTIEA
+                     RFQPLLPETMTKSKDGFLGVSRLALSGLRNWTAAASPSAVFATRHFQPFLPPPGQELG
+                     EPWWIIPSELSMFTGYLSNNRFYPPPPKGKEVIIHRLLSMFHPRPFVKTRFAPQGAVA
+                     CLTAISDFYYTVMFRIHAEFQLSEPPDFPFWFSPAQFTGHIILSKDATHVRDFRLFVP
+                     NHRSLNVDMEWLYGASESSNMEVDIGYIPQMELEATGPSVPSVILDEDGSMIDSHLPS
+                     GEPLQFVFEEIKWQQELSWEEAARRLEVAMYPFKKVSYLPFTEAFDRAKAENKLVHSI
+                     LLWGALDDQSCUGSGRTLRETVLESSPILTLLNESFISTWSLVKELEELQNNQENSSH
+                     QKLAGLHLEKYSFPVEMMICLPNGTVVHHINANYFLDITSVKPEEIESNLFSFSSTFE
+                     DPSTATYMQFLKEGLRRGLPLLQP"
+     misc_feature    417..419
+                     /gene="SELENON"
+                     /gene_synonym="CFTD; MDRS1; RSMD1; RSS; SELN; SEPN1"
+                     /note="Selenocysteine; other site"
+     misc_feature    1422..1424
+                     /gene="SELENON"
+                     /gene_synonym="CFTD; MDRS1; RSMD1; RSS; SELN; SEPN1"
+                     /note="Selenocysteine; other site"
+     exon            222..339
+                     /gene="SELENON"
+                     /gene_synonym="CFTD; MDRS1; RSMD1; RSS; SELN; SEPN1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            340..441
+                     /gene="SELENON"
+                     /gene_synonym="CFTD; MDRS1; RSMD1; RSS; SELN; SEPN1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            442..575
+                     /gene="SELENON"
+                     /gene_synonym="CFTD; MDRS1; RSMD1; RSS; SELN; SEPN1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            576..785
+                     /gene="SELENON"
+                     /gene_synonym="CFTD; MDRS1; RSMD1; RSS; SELN; SEPN1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            786..910
+                     /gene="SELENON"
+                     /gene_synonym="CFTD; MDRS1; RSMD1; RSS; SELN; SEPN1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            911..1048
+                     /gene="SELENON"
+                     /gene_synonym="CFTD; MDRS1; RSMD1; RSS; SELN; SEPN1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1049..1130
+                     /gene="SELENON"
+                     /gene_synonym="CFTD; MDRS1; RSMD1; RSS; SELN; SEPN1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1131..1319
+                     /gene="SELENON"
+                     /gene_synonym="CFTD; MDRS1; RSMD1; RSS; SELN; SEPN1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1320..1425
+                     /gene="SELENON"
+                     /gene_synonym="CFTD; MDRS1; RSMD1; RSS; SELN; SEPN1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1426..1538
+                     /gene="SELENON"
+                     /gene_synonym="CFTD; MDRS1; RSMD1; RSS; SELN; SEPN1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1431..1469
+                     /regulatory_class="recoding_stimulatory_region"
+                     /gene="SELENON"
+                     /gene_synonym="CFTD; MDRS1; RSMD1; RSS; SELN; SEPN1"
+                     /note="stop_codon_readthrough_signal; stop-codon
+                     redefinition element (SRE)"
+                     /function="stimulates readthrough at the UGA codon"
+     exon            1539..1640
+                     /gene="SELENON"
+                     /gene_synonym="CFTD; MDRS1; RSMD1; RSS; SELN; SEPN1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1641..4314
+                     /gene="SELENON"
+                     /gene_synonym="CFTD; MDRS1; RSMD1; RSS; SELN; SEPN1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2905..2972
+                     /regulatory_class="recoding_stimulatory_region"
+                     /gene="SELENON"
+                     /gene_synonym="CFTD; MDRS1; RSMD1; RSS; SELN; SEPN1"
+                     /note="SECIS_element"
+                     /function="essential for recoding UGA to specify
+                     selenocysteine"
+     regulatory      4294..4299
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="SELENON"
+                     /gene_synonym="CFTD; MDRS1; RSMD1; RSS; SELN; SEPN1"
+                     /note="hexamer: AATAAA"
+     polyA_site      4314
+                     /gene="SELENON"
+                     /gene_synonym="CFTD; MDRS1; RSMD1; RSS; SELN; SEPN1"
+                     /note="major polyA site"
+ORIGIN      
+        1 gcttcccggg ccgccggcag ccgccgccag ccgcagccat gggccgggcc cggccgggcc
+       61 aacgcgggcc gcccagcccc ggccccgccg cgcagcctcc cgcgccaccg cgccgccgcg
+      121 cccgttccct ggcgctgctc ggagccctgc tggccgccgc cgctgccgcc gccgtccggg
+      181 tctgcgcccg ccacgccgag gcccaggcgg ccgcgcggca ggaactggcg ctgaagaccc
+      241 tggggacaga tggccttttt ctcttttcct ccttggacac tgacggggat atgtacatca
+      301 gccctgagga gttcaaaccc attgctgaga agctaacagg gtcttgttct gtcacccaga
+      361 ctggagtgca gtggtgcagt cacagctcac tgcagcctca acttccctgg ctcaattgat
+      421 cctcctgcct cagcctcctg aggtcaactc ccgcggccag ctgcgaggag gaggagttgc
+      481 cccctgaccc tagcgaggag acgctcacca tagaagcccg attccagcct ctgctcccgg
+      541 agaccatgac caagagcaaa gatggcttcc taggggtctc ccgcctcgcc ctgtccggcc
+      601 tccgaaactg gacagccgcc gcctcaccaa gtgcagtgtt tgccacccgc cacttccagc
+      661 ccttccttcc cccgccaggc caggagctgg gtgagccctg gtggatcatc cccagtgagc
+      721 tgagcatgtt cactggctac ctgtccaaca accgcttcta tccaccgccg cccaagggca
+      781 aggaggtcat catccaccgg ctcctgagca tgttccaccc tcggcccttt gtgaagaccc
+      841 gctttgcccc tcagggagct gtggcctgcc tgactgccat cagcgacttc tactacactg
+      901 tgatgttccg gatccatgcc gagttccagc tcagtgagcc gcccgacttc cccttttggt
+      961 tctcccctgc tcagttcacc ggccacatca tcctctccaa agacgccacc cacgtccgcg
+     1021 acttccggct cttcgtgccc aaccacaggt ctctgaatgt ggacatggag tggctttacg
+     1081 gggccagtga aagcagcaac atggaggtgg acatcggcta cataccccag atggagctgg
+     1141 aggccacggg cccctctgtg ccctccgtga tcctggatga ggatggcagc atgatcgaca
+     1201 gccacctgcc ttcaggggag cccctgcagt ttgtgtttga ggagatcaag tggcagcagg
+     1261 agctgagctg ggaggaggct gcccggcgcc tggaggtggc catgtacccc ttcaagaagg
+     1321 tctcctactt gccgttcact gaggccttcg accgagccaa ggctgagaac aagctggtgc
+     1381 actcaatcct gctgtggggg gccctggatg accagtcctg ctgaggttca gggcggactc
+     1441 tccgggagac tgtcctggaa agttcgccca tcctcaccct gctcaacgag agcttcatca
+     1501 gcacctggtc cctggtgaag gagctggagg aactgcagaa caaccaggag aactcgtccc
+     1561 accagaagct ggctggcctg cacctggaga agtacagctt ccccgtggag atgatgatct
+     1621 gcctgcccaa tggcaccgtg gtccatcaca tcaatgccaa ctacttcttg gacatcacct
+     1681 ccgtgaagcc cgaggaaatc gagagcaatc tcttcagctt ctcatccacc tttgaagacc
+     1741 cgtccacggc cacctacatg cagttcctga aggagggact ccggcgtggc ctgcccctcc
+     1801 tccagcccta gagtgcctgg acgggatctg atgcacaggc ccccacgcct cagagccaga
+     1861 gtggtcctca gcccatttca gactgcagat gccgcccact cccaccccac tcctaggctg
+     1921 ccttggaggg tacaagatcc actgagggtg gccaccacag ccttggctcc atggtggcgg
+     1981 gtagacaagg gatgcctggg ctgactgggc agaggaacct ctagctctga ctgtcactcg
+     2041 gctctcccta cccatttggc tctggaagct gcttggcccc cccagatcag ggcctgggtg
+     2101 aactccctgg acctttccta gccagccgca cagtctaggc ccttgtgggg tgaagaatgg
+     2161 agggaggagc aggctaggaa gacggggcca ccaccctctc cttgctttca gcccttccca
+     2221 caggaaacat caagaagccc cagccaggag gggccaggct gccaaggcgg ctcccctgtt
+     2281 tatctagagc cttcgttcct ggccataccc cggactgccc tcctgtgcct gatgtcccca
+     2341 gctggggtca gtctcaacag gagccagtct tctggagcct ctgggcagaa ccctccatca
+     2401 gagtggaaat cagacgggac cccctgcagc ttccctgacc acgccactga ccagctatct
+     2461 ggggaagttt actgtgaagg ggtttctgcc tttagcaatg gggttcacta agggggttcc
+     2521 cgaggcccag ggccaaggca ctcccaccgc ctaccttagc acagggtctc tgcaggactg
+     2581 cgggagccag cgctcctgcc gcccctcttg cccctcagac cttgcatcca cagaagcaca
+     2641 acccagccaa acaccacagc cttctccaga gccggcactg tcccggcaac caggggtgcc
+     2701 ccaggctagc tcttctacct ctggggcacc acggactccc cttggccact cttgggactt
+     2761 tggtccacgt cctgagccac tgaccacggc cagtctctct ttttatatgt gcagaaaagt
+     2821 gtttttacac aaactttctc atggtttgta ggtatttttt tataacccca gtgctgagga
+     2881 gaaaggaggg gcagtggctt ccccggcagc agccccatga tggctgaatc cgaaatcctc
+     2941 gatgggtcca gcttgatgtc tttgcagctg cacctatggg aagaagtagt cctctcttcc
+     3001 ttctcctctt cagcttttta aaaacagtcc tcagaggatc catgatcccc agcactgtcc
+     3061 catcctccac aaaggcccac aggcatgcct gtactctctt tcattaaggt cttgaagtca
+     3121 ggctgccccc tccccagccc ccagttctct ccccaccccc tcaccccacc cggggctcac
+     3181 tcagcctggc agaggaagaa ggaaggcaga catctccgca gccactcctg ggccttttat
+     3241 gtgccgagtt accccacttg ccttgggcgt gtccactgag ccttccccag ccagtcttgt
+     3301 tctcaatttt gttttgtttt gttttgagac ggagtcttgc tctgtcaccc aggctggagt
+     3361 gctatggctc gatcttggct cactgcaacc tccacctccc aggttcaagc aattctcttg
+     3421 cctcagcctc ccgagtagct gggattacag gtgcatgcca ccatggctgg ctaatttttg
+     3481 tatttttagt agagatgggg tttcaccata ttggtcaggc tgatctggaa cttctgacct
+     3541 caggtgatcc acctgcctca gcctcccaaa gtgctgggat tacaggcgtg agcaatcgtg
+     3601 cccagccttg ttcttaattt tgtatcatcc agtcatcgct aatattacac gcaccttctc
+     3661 acttaatcct cacgacaagc ctgtgaggca gatgctcatt gttcccatct tgatgaaact
+     3721 tgagtctcag ggaagtgaag tgacttgccc agggtcactc aggtagagtt gagattcaaa
+     3781 cccacatgtg gctccaaagt ctgcatctgg atttgggggt gttttttggc atggcaccct
+     3841 cacctctctc cctgcctgtt ttccccaaag tggaaaggaa ggcctttcaa accagagtgt
+     3901 ctcactcccc tctgacctcc agaccagatg gggcatgagc cagccagctc agccaggctc
+     3961 cctgtgtcct gggaggaagt gtccccatcc cccatgcccc ttatggggag ggagggcgtc
+     4021 tgatgctctc tctctgcctc cccccccatc ctgtcaggca caggtgacgg gggcagccca
+     4081 tgcgagccct tctcctgctg ctctgggagg gccagttcca cattgagcca gcctggtccc
+     4141 atggaaaatg atggcctggg ctttctgagg ccttatctga tgcctctgca gttcatgtcc
+     4201 cccaccaggc ctcgaggctc agggtgggag agggccccgg gctgccctgt cactcctcta
+     4261 acacttccct cccctgtccc caacatgccc tgtaataaaa ttagagaaga ctaa
+//
+
