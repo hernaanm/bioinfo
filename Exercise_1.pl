@@ -3,10 +3,6 @@
 # Modules used
 use strict;
 use warnings;
-  
-# Print function 
-print("Hello World\n");
-
 use Bio::SeqIO;
 use Bio::SeqUtils;
 
@@ -14,11 +10,12 @@ my $seqio_obj;
 my $seq_obj;
 my $seqout;
 
-my $outputPath = "Output/" ;
+my $inputPath = "Input/";
+my $outputPath = "Output/";
 my $exercise = "Exercise_1";
 
 
-$seqio_obj = Bio::SeqIO->new(-file => "sequence.gb", 
+$seqio_obj = Bio::SeqIO->new(-file => "Input/Exercise_1/sequence.gb", 
                              -format => "genbank" ); 
 
 $seq_obj = $seqio_obj->next_seq;

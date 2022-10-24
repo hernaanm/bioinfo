@@ -6,8 +6,8 @@ use strict;
 use warnings;
 
 # Declaro variables
-my $usage = "Ej2.pm <<PATH al archivo .fas>>";
-my $fileInput = shift or die $usage;
+my $usage = "";
+my $fileInput = "Input/Exercise_2/all.fasta";
 my $prog = "blastp";
 my $db   = "swissprot";
 my $e_val= "1e-10";
