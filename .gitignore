@@ -1,3 +1,16 @@
-*.out
-Exercise_2POC.pl
-Output/Exercise_1/*.fasta
+DEPRECATED INPUT
+DEPRECATED OUTPUT
+
+Exercise_1/Output/*.*
+Exercise_3/Output/*.*
+
+#Exercise2
+Exercise_2/Local/Output/*.*
+Exercise_2/Local/Output/*.*
+Exercise_2/Local/ncbi-blast-2.13.0+
+Exercise_2/Local/ncbi-blast-2.13.0+-x64-linux.tar.gz
+Exercise_2/Local/swissprot
+Exercise_2/Local/swissprot.gz
+
+Exercise_2/Remote/Output/*.*
+Exercise_2/Remote/*.out

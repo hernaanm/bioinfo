@@ -6,21 +6,21 @@ my $seqio_obj2;
 my $seq_obj1;
 my $seq_obj2;
 my $seqout;
-my $outputPath = "Output/Exercise_3" ;
+my $outputPath = "./Output/" ;
 
-$seqio_obj1 = Bio::SeqIO->new(-file => "Input/Exercise_3/sequence.fasta", 
+$seqio_obj1 = Bio::SeqIO->new(-file => "./Input/sequence.fasta", 
                              -format => "fasta" ); 
 
 
-$seqio_obj2 = Bio::SeqIO->new(-file => "Input/Exercise_3/sequence1.fasta", 
+$seqio_obj2 = Bio::SeqIO->new(-file => "./Input/sequence1.fasta", 
                              -format => "fasta" ); 
 
 
-$seqio_obj3 = Bio::SeqIO->new(-file => "Input/Exercise_3/sequence2.fasta", 
+$seqio_obj3 = Bio::SeqIO->new(-file => "./Input/sequence2.fasta", 
                              -format => "fasta" ); 
 
 
-$seqio_obj4 = Bio::SeqIO->new(-file => "Input/Exercise_3/sequence3.fasta", 
+$seqio_obj4 = Bio::SeqIO->new(-file => "./Input/sequence3.fasta", 
                              -format => "fasta" ); 
 my @seq_array =();
 
@@ -54,5 +54,5 @@ $seq_array_ref = \@seq_array;
 $aln = $factory->align($seq_array_ref);
 
 
-$seqout = Bio::AlignIO->new(-file => ">Output/Exercise_3/alignement.fasta", -format => "fasta");
+$seqout = Bio::AlignIO->new(-file => ">./Output/alignement.fasta", -format => "fasta");
 $seqout->write_aln($aln)
